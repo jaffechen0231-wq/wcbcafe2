@@ -32,7 +32,7 @@ img {
 
 /*抬头*/
 .font-english {
-    font-family: 'Philosopher'; sans-serif;
+    font-family: 'Philosopher', sans-serif;
     font-weight: normal;
 }
 
